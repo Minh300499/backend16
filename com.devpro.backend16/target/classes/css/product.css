@@ -1,0 +1,42 @@
+
+.pro-img-details img{
+    height: 380px;
+    width: 550px;
+    border: 1px solid pink;
+}
+
+.pro-img-list {
+    display: flex;
+}
+
+.pro-img-list img{
+    height: 100px;
+    width: 115px;
+    margin: 10px;
+    border: 1px solid pink;
+}
+
+.pro-d-title{
+    padding-top: 20px;
+}
+
+hr{
+    padding-top: 20px;
+    width: 100%;
+}
+
+.amount-old {
+    text-decoration: line-through;
+}
+.pro-price, .amount-old {
+    font-size: 18px;
+    padding: 0 10px;
+}
+
+.product_meta a, .pro-price {
+    color: #fc5959;
+}
+
+.quantity {
+    width: 120px;
+}
